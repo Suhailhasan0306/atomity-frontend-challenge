@@ -30,16 +30,17 @@ Each metric is presented in an animated card with smooth entrance animations and
 
 ## Component Structure
 
+```
 src/
-components/
-FeatureSection.jsx // main animated section
-AnimatedCard.jsx // reusable metric card component
-AnimatedCounter.jsx // animated number counter
-hooks/
-useApiData.js // API fetching with React Query
-tokens/
-tokens.js // design tokens (colors, styles)
-
+  components/
+    FeatureSection.jsx // main animated section
+    AnimatedCard.jsx  // reusable metric card component
+    AnimatedCounter.jsx // animated number counter 
+  hooks/
+    useApiData.js // API fetching with React Query
+  tokens/
+    tokens.js // design tokens (colors, styles)
+```
 
 This structure keeps the project modular and makes components reusable and easier to maintain.
 
