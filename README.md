@@ -47,11 +47,11 @@ This structure keeps the project modular and makes components reusable and easie
 
 ## Deployment
 
-Live Demo:  
-(Add your Vercel link)
+Live Demo:
+https://atomity-project.vercel.app
 
-GitHub Repository:  
-(Add your GitHub repo link)
+GitHub Repository:
+https://github.com/Suhailhasan0306/atomity-frontend-challenge
 
 ---
 
